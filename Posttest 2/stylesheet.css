@@ -1,0 +1,88 @@
+.header {
+    background-color: rgb(142, 142, 255);
+    color: black;
+    height: 100px;
+}
+
+.nama-header {
+    float: left;
+    font-size: 40px;
+    padding: 25px 45px;
+}
+
+.list-header li {
+    float: right;
+    padding: 38px 25px;
+}
+
+.list-header a {
+    color: black;
+}
+
+.main {
+    padding: 100x 80px;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li {
+    list-style: none;
+    float :left;
+    font-size: 20px;
+}
+
+.penawaran {
+    height: 500px;
+    margin-top: 10px;
+}
+
+.nama-penawaran {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+.penawaran-item{
+    float: left;
+    margin-right: 117px;
+    border-radius: 50%;
+}
+
+.penawaran-item p{
+    font-size: 24px;
+    margin-top: 30px;
+}
+
+.footer {
+    background-color: #2f5167;
+    color: #fff;
+    height: 50px;
+    padding-top: 25px;
+}
+
+.nama-footer {
+    font-size: 20px;
+}
+
+.about-me {
+    height: 100px;
+    margin-top: 3px;
+}
+
+.data-diri {
+    border-bottom: 10px solid #dee7ec;
+    font-size: 50px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+}
+
+.data-item{
+    float: left;
+    margin-top:35px;
+    margin-right: 200px;
+    border-radius: 50%;
+    font-size: 50px;
+}
